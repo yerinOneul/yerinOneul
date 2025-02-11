@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90) 
 
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;)](https://git.io/typing-svg)
 
 ### Statistics
 <div>
